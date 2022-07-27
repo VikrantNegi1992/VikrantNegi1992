@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Cloud Consultant from India..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrantnegi1992&label=Profile%20views&color=0e75b6&style=flat" alt="vikrantnegi1992" /> </p>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🌱 I’m currently learning **DevOps and Terraform**
 
