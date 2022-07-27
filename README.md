@@ -15,9 +15,13 @@
 <p align="left">
 <p style="text-align:right">
   
-  - Cloud Migrations: Worked on Cloud Migration/Transformation projects as well for various clients using Azure Migrate and RiverMeadow as a toolset. Experienced in migrating on-premises SQL workloads to Azure using native toolset.
+  - Cloud Migrations: Worked on Cloud Migration/Transformation projects for various clients to lift-and-shift their existing On-Premises servers to Azure using Azure Migrate and RiverMeadow as a toolset. Experienced in migrating on-premises SQL workloads to Azure using native toolset.
   
   - Cloud Operations and Administration: Worked on various client project to handle their large scale cloud infrastructure and supported them with their day-to-day operations to ensure BAU. This also includes deploying new cloud sevices via automation - PowerShell, ARM.
+  
+  - Automation skills: Worked with different automation toolset for cloud Infra deployment like - PowerShell, Terraform, ARM Templates. Also, I have deployed deployed different runbooks in Azure Automation account.
+  
+  - Windows and SQL Admin: I have also worked as a L2 support engineer to manager Windows and SQL servers. This role include- User Creation and RBAC, Policy creation and enforcement, Database creation, backup management etc.
   
 </p>
 
