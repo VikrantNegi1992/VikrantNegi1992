@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikrant Singh Negi</h1>
-<h3 align="center">A passionate Cloud Consultant from India..</h3>
+<h3 align="center">A passionate Cloud Consultant from India with ~7 years of experience.</h3>
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrantnegi1992&label=Profile%20views&color=0e75b6&style=flat" alt="vikrantnegi1992" /> </p>
@@ -13,7 +13,9 @@
 
 <h3 align="left">Professional Summary:</h3>
 <p align="left">
-  Cloud Operations and Administration: Worked on various client project to handle their large cloud infrastructure and supported them with their day-to-day operations and maintained BAU. This also includes deploying new cloud sevices via automation - PowerShell, ARM.
+  - Cloud Migrations: Worked on Cloud Migration/Transformation projects as well for various clients using Azure Migrate and RiverMeadow as a toolset. Experienced in migrating on-premises SQL workloads to Azure using native toolset.
+  
+  - Cloud Operations and Administration: Worked on various client project to handle their large scale cloud infrastructure and supported them with their day-to-day operations to ensure BAU. This also includes deploying new cloud sevices via automation - PowerShell, ARM.
   
 </p>
 
