@@ -13,7 +13,7 @@
 
 <h3 align="left">Professional Summary:</h3>
 <p align="left">
-<p align="right">
+<p style="text-align:right">
   
   - Cloud Migrations: Worked on Cloud Migration/Transformation projects as well for various clients using Azure Migrate and RiverMeadow as a toolset. Experienced in migrating on-premises SQL workloads to Azure using native toolset.
   
