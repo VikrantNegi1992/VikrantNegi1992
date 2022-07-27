@@ -11,8 +11,10 @@
 
 - 📫 How to reach me **vikrantnegi1992@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Professional Summary:</h3>
 <p align="left">
+  Cloud Operations and Administration: Worked on various client project to handle their large cloud infrastructure and supported them with their day-to-day operations and maintained BAU. This also includes deploying new cloud sevices via automation - PowerShell, ARM.
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
